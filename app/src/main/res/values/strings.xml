@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="car_name">Nama Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Rodhi Shafia Zaidan</string>
+    <string name="email_profile">rodhisz.45@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Toyota Avanza</item>
+        <item>Honda Jazz</item>
+        <item>Toyota Fortuner</item>
+        <item>Honda CR-V</item>
+        <item>Suzuki Ertiga</item>
+        <item>Mitsubishi Xpander</item>
+        <item>Daihatsu Terios</item>
+        <item>Nissan Grand Livina</item>
+        <item>Toyota Innova</item>
+        <item>Honda Civic</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Toyota Avanza adalah mobil MPV yang sangat populer di Indonesia. Ia menggabungkan ukuran yang kompak dengan kapasitas penumpang yang baik, biasanya dapat menampung hingga 7 orang. Avanza dikenal karena daya tahan mesinnya, efisiensi bahan bakarnya, dan perawatan yang terjangkau. Ini adalah kendaraan yang sangat cocok untuk keluarga yang membutuhkan kendaraan sehari-hari yang nyaman dan praktis.</item>
+        <item>Honda Jazz adalah hatchback kompak yang menonjol karena fleksibilitas ruangnya. Meskipun ukurannya kecil, Jazz memiliki interior yang luas dan modular yang dapat diatur ulang untuk mengakomodasi barang bawaan yang lebih besar. Ini juga memiliki manuverabilitas yang baik, membuatnya sempurna untuk berbagai tipe perjalanan kota.</item>
+        <item>Toyota Fortuner adalah SUV yang kokoh dan kuat. Dikenal dengan kemampuannya di medan off-road, Fortuner juga menawarkan kenyamanan dalam berkendara dan interior yang mewah. Model terbaru sering dilengkapi dengan fitur canggih seperti sistem infotainment yang canggih dan berbagai sistem keamanan.</item>
+        <item>Honda CR-V adalah SUV kompak yang menggabungkan kenyamanan dan performa yang baik. Dengan ruang kabin yang luas, banyak ruang penyimpanan, dan teknologi canggih, CR-V adalah pilihan yang bagus untuk keluarga yang aktif.</item>
+        <item>Suzuki Ertiga adalah MPV kompak yang ekonomis dengan tampilan modern. Meskipun ukurannya lebih kecil daripada beberapa pesaingnya, Ertiga menawarkan ruang kabin yang luas dan nyaman. Ini adalah kendaraan yang populer di kalangan keluarga Indonesia yang mencari mobilitas sehari-hari yang efisien.</item>
+        <item>Mitsubishi Xpander adalah MPV yang terkenal dengan desain modern dan futuristiknya. Dengan kapasitas penumpang hingga 7 orang, Xpander menawarkan ruang kabin yang luas dan berbagai fitur canggih untuk kenyamanan pengemudi dan penumpang.</item>
+        <item>Daihatsu Terios adalah SUV kompak yang dirancang untuk petualangan di luar jalan raya. Dengan kemampuan off-road yang baik dan ketinggian tanah yang tinggi, Terios adalah pilihan yang solid untuk mereka yang sering menjelajahi medan yang kasar.</item>
+        <item>Nissan Grand Livina adalah MPV dengan desain yang elegan dan modern. Dengan kapasitas hingga 7 penumpang, mobil ini menawarkan kenyamanan tinggi dan ruang kabin yang luas, menjadikannya salah satu pilihan yang populer di pasar Indonesia.</item>
+        <item>Toyota Innova adalah MPV premium yang menawarkan interior yang mewah dan performa yang handal. Ini adalah mobil yang cocok untuk keluarga besar yang menginginkan kenyamanan tinggi dan fitur-fitur canggih.</item>
+        <item>Honda Civic adalah sedan yang dikenal dengan desain yang sporty, performa yang baik, dan kualitas yang tinggi. Dengan berbagai model dan trim yang tersedia, Civic adalah mobil yang populer di berbagai kalangan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/avanza</item>
+        <item>@drawable/jazz</item>
+        <item>@drawable/fortuner</item>
+        <item>@drawable/crv</item>
+        <item>@drawable/ertiga</item>
+        <item>@drawable/xpander</item>
+        <item>@drawable/terios</item>
+        <item>@drawable/livina</item>
+        <item>@drawable/innova</item>
+        <item>@drawable/civic</item>
+    </integer-array>
+</resources>
